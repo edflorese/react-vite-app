@@ -2,7 +2,9 @@
 
 ## Description
 In this repository, you will find a simple game to guess a random number. Just enter a number and check the response to see if you guessed correctly. This game was developed using REACT with VITE.
----
+
+## Requisites
+1. Node LTS
 
 ## Instructions
 1. Clone this repository.
